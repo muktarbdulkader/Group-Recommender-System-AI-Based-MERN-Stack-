@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./backend"
+    ],
+    "python.pythonPath": "C:/Users/hp/AppData/Local/Programs/Python/Python311/python.exe"
+}
